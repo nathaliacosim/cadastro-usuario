@@ -1,2 +1,2 @@
-# cadastro-usuario
-Crud em JAVA.
+# Cadastro de Usuário
+Crud simples em JAVA.
